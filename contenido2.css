@@ -1,0 +1,28 @@
+
+
+header{
+    width: 90%;
+    height: 170px;
+    background-color: rgb(7, 180, 123);
+    margin: 0 auto;
+}
+
+.foto{
+    width: 150px;
+    height: 150px;
+    float: right;
+}
+
+nav{
+    width: 90%;
+    height: 80px;
+    background-color: rgb(8, 190, 87);
+    margin: 0 auto;
+    
+}
+
+article{
+    width: 90%;
+    min-height: 500px;
+    background-color: rgb(198, 229, 20);
+}

@@ -1,0 +1,50 @@
+header{
+    width: 90%;
+    height: 150px;
+    background-color: rgb(7, 180, 123);
+    margin: 0 auto;
+}
+
+nav{
+    width: 90%;
+    height: 80px;
+    background-color: rgb(8, 190, 87);
+    margin: 0 auto;
+}
+
+main{
+    width: 90%;
+    min-height: 500px;
+    background-color: rgb(91, 180, 7);
+    margin: 0 auto;
+}
+
+article{
+    width: 70%;
+    min-height: 500px;
+    background-color: rgb(198, 229, 20);
+    float: left;
+}
+
+section{
+    width: 99%;
+    height: 246px;
+    background-color: rgb(156, 214, 144);
+    border-radius: 10px;
+    border: 1px solid red;
+}
+
+aside{
+    width: 30%;
+    min-height: 500px;
+    background-color: rgb(229, 187, 20);
+    float: right;
+}
+
+footer{
+    width: 90%;
+    height: 100px;
+    background-color: rgb(187, 176, 221);
+    margin: 0 auto;
+}
+
